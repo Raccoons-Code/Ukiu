@@ -1,0 +1,16 @@
+{
+  "name": "ukiu",
+  "version": "1.0.0",
+  "description": "Dando continuidade ao propósito da Raccoons Code, a Ukiu é um bot de música do Discord, desenvolvido em typescript, que proporcionará a melhor experiencia possível para seus usuários quando o assunto for descobrir novos horizontes com a musica!",
+  "main": "index.js",
+  "repository": "https://github.com/Raccoons-Code/Ukiu.git",
+  "author": "Pedro Henrique Gomes Alcenio",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.8"
+  }
+}
